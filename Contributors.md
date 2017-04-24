@@ -10,4 +10,6 @@ Or please put in it an issue [https://github.com/lisahandsonline/Internet-Safety
 
 Name, affiliation, contact email, github handle (optional).
 
-- Lisa Wright, Kilroy's College, @lisahandsonline
+- Lisa Wright, Kilroy's College, [https://github.com/lisahandsonline]
+
+
