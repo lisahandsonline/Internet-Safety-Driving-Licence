@@ -17,4 +17,5 @@ For more details on this module please take a look at my README [
 - Please get in contact and introduce yoursef initially on Twitter:
 Lisa Wright [https://twitter.com/lisahandsonline]
 
-- Any comments regarding any content can be raised via an issue 
+- Any comments on content can be raised via an issue [https://github.com/lisahandsonline/Internet-Safety-Driving-Licence/issues]
+
