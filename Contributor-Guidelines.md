@@ -1,6 +1,6 @@
 # Contributor-Guidelines
 
-## **You are very Welcome to the Internet Safety Driving Licence Project!**
+## **You are very welcome to the Internet Safety Driving Licence Project!**
 
 Thank you for taking the time to get this far!  This document is designed to help you understand the **Internet Safety Driving Licence (ISDL)** community and how to interact, should you decide to join our cohort of Internet Safety heads.
 
@@ -19,13 +19,15 @@ For more details on this curriculum please take a look at my README [https://git
 - Please get in contact and introduce yourself initially on Twitter:
 Lisa Wright [https://twitter.com/lisahandsonline]
 
-- Any comments on content can be raised via an issue [https://github.com/lisahandsonline/Internet-Safety-Driving-Licence/issues]
+- And/or if you would like to join us on the Global Sprint 2017 please message us via the home page in Github:
+@lisahandsonline [https://gitter.im/mozilla/global-sprint-2017?source=orgpage]
 
-Right now there are three ways that you can contribute:
-- Suggest edits to any proposed content (in Google docs) [https://drive.google.com/drive/folders/0B8advdlsil63b1poTWRZLTNraE0]
-- Commit ideas for enhancements, for example any new content and/or topics that you think should be included..  You can find help on how to do this here [https://guides.github.com/features/issues/]
-- Participate in the Mozilla Global Sprint (June 1st-2nd 2017).  More information on this local and virtual meeting can be found at [http://mozilla.github.io/global-sprint/] If you would like to join us for the Sprint, please contact us at the moment on Twitter:
-Lisa Wright (Project Leader) [https://twitter.com/lisahandsonline]
+- Any comments on our content should please be raised via an issue [https://github.com/lisahandsonline/Internet-Safety-Driving-Licence/issues]
+
+Right now there are three ways that you can actively contribute to our project:
+- Suggest edits to any proposed curriculum content (**we are working in Google docs**) [https://drive.google.com/drive/folders/0B8advdlsil63b1poTWRZLTNraE0]
+- Commit ideas for enhancements, for example any new content and/or topics that you think should be included in **issues**. You can find help on how to do this here [https://guides.github.com/features/issues/]
+- Participate in the **Mozilla Global Sprint (June 1st-2nd 2017)**.  More information on this local and virtual meeting can be found at [http://mozilla.github.io/global-sprint/] 
 
 ## **Attributes**
 
