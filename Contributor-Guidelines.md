@@ -29,7 +29,7 @@ Lisa Wright (Project Leader) [https://twitter.com/lisahandsonline]
 
 ## **Attributes**
 
-If you have contributed to this Repository please now add yourself to our Contributors.md.  You can find out how to do this here [
+If you have contributed to this Repository please now add yourself to our Contributors.md.  You can add yourself here [ ]
 
 ## **Looking to the future**
 
