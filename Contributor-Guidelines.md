@@ -16,7 +16,7 @@ For more details on this curriculum please take a look at my README [https://git
 
 ## **How can I contribute?**
 
-- Please get in contact and introduce yoursef initially on Twitter:
+- Please get in contact and introduce yourself initially on Twitter:
 Lisa Wright [https://twitter.com/lisahandsonline]
 
 - Any comments on content can be raised via an issue [https://github.com/lisahandsonline/Internet-Safety-Driving-Licence/issues]
