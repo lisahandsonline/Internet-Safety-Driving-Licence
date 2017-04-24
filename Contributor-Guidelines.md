@@ -12,7 +12,7 @@ The Internet Safety Driving Licence (ISDL) is an online open curriculum built fo
 
 This Repository will focus on building the first module in this programme: *Cyberbullying Awareness*
 
-For more details on this module please take a look at my README [https://github.com/lisahandsonline/Internet-Safety-Driving-Licence/blob/master/README.md]
+For more details on this curriculum please take a look at my README [https://github.com/lisahandsonline/Internet-Safety-Driving-Licence/blob/master/README.md]
 
 ## **How can I contribute?**
 
