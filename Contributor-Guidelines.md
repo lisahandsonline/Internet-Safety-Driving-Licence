@@ -31,7 +31,7 @@ Right now there are three ways that you can actively contribute to our project:
 
 ## **Attributes**
 
-If you have contributed to this Repository please now add yourself to our Contributors.md.  You can add yourself here [ ]
+If you have contributed to this Repository please now add yourself to our Contributors.md.  You can add yourself here [https://github.com/lisahandsonline/Internet-Safety-Driving-Licence/blob/master/Contributors.md]
 
 ## **Looking to the future**
 
