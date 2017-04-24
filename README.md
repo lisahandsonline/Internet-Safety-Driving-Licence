@@ -48,7 +48,7 @@ Learning Outcomes delivered over 6 units:
 - Identification of a cyberbully
 - The law and cyberbullying
 - Dealing with a cyberbully
-- Being a cyberbuddy and adovate
+- Being a cyberbuddy and advocate
 
 Here is what has been developed so far in **Google Docs**:
 
@@ -56,6 +56,8 @@ Here is what has been developed so far in **Google Docs**:
 - Some draft course content for each of the proposed 6 units
 
 If you would like to see our current plan for the development of this project please take a look at our Canvas [https://docs.google.com/presentation/d/1S4eC4Z7jOGehz2NDN68TDDpmGXP-3pEX-tQD9YM3jtM/edit#slide=id.p]
+
+If you would like to find out how you can contribute to this project please read our Contributor Guidelines also found in this Repository.
 
 If you are looking for more information on Kilroy's College please see [https://www.kilroyscollege.ie/]
 
