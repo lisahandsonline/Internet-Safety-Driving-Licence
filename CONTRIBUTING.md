@@ -1,4 +1,4 @@
-# Contributor-Guidelines
+# CONTRIBUTING.md
 
 ## **You are very welcome to the Internet Safety Driving Licence Project!**
 
