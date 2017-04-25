@@ -24,10 +24,10 @@ Successful completion of all 5 **Cyber-Ed** modules by a learner will lead to th
 - Internet Safety Driving Licence (in recognition of learning)
 
 ### Course Format
-- Learners will login to Kilroy's College Moodle access their course
+- Learners will initially login to the Kilroy's College site to access their course - until a dedicated website is built - see [Roadmap] [https://docs.google.com/document/d/1-fmqE37hVOBpe3ur2fe4CR4SRAF1LTGip3R0_5QyE5E/edit]
 - Each module will become immediately accessible 
 - Upon successful completion of each module learners will be awarded a *Cyber-Ed* Mozilla badge
-- Learner support and mentoring will be available via closed forum in Moodle
+- Learner support and mentoring will be available via SM (closed Facebook group)
 - Each module will have a soft limit date of 12 weeks from date of enrolment
 - Any correspondence between learners and mentors will be private and confidential
 
