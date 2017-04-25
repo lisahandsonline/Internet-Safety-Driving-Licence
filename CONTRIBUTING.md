@@ -1,4 +1,4 @@
-# CONTRIBUTING.md
+# CONTRIBUTING
 
 ## **You are very welcome to the Internet Safety Driving Licence Project!**
 
