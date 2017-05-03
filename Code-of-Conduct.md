@@ -27,7 +27,7 @@ While all reports will be taken seriously, the community organiser may not act o
 
 For reports or discussion please contact the team leader directly and in confidence:
 
-Lisa Wright [handsonline.lisa@gmail.com]
+[Lisa Wright](handsonline.lisa@gmail.com)
 
 ## **We will not tolerate harassment of any kind, including but not limited to**:
 
@@ -60,14 +60,14 @@ This Code of Conduct is distributed under a *Creative Commons Attribution-ShareA
 
 ## **Ackowledgements**
 
-Ths Code of Conduct is derived from the [Open Science 101 Code of Conduct] (https://github.com/OKScienceDE/Open_Science_101/blob/master/CODE_OF_CONDUCT.md) 
+Ths Code of Conduct is derived from the [Open Science 101 Code of Conduct](https://github.com/OKScienceDE/Open_Science_101/blob/master/CODE_OF_CONDUCT.md) 
 
 and also attributes portions of text derived from:
-- [Citizen Code of Conduct] (http://citizencodeofconduct.org/)
-- [Django Code of Conduct] (https://www.djangoproject.com/conduct/reporting/) 
-- [Geek Feminism Anti-Harassment Policy] (http://geekfeminism.org/about/code-of-conduct/)
-- [Mozilla Science Lab Code of Conduct] (https://science.mozilla.org/code-of-conduct) 
-- [Slidewinder Code of Conduct] (http://www.slidewinder.io/docs/01_code_of_conduct.html).
+- [Citizen Code of Conduct](http://citizencodeofconduct.org/)
+- [Django Code of Conduct](https://www.djangoproject.com/conduct/reporting/) 
+- [Geek Feminism Anti-Harassment Policy](http://geekfeminism.org/about/code-of-conduct/)
+- [Mozilla Science Lab Code of Conduct](https://science.mozilla.org/code-of-conduct) 
+- [Slidewinder Code of Conduct](http://www.slidewinder.io/docs/01_code_of_conduct.html).
 
 
 
