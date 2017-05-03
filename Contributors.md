@@ -4,7 +4,7 @@
 
 Anyone who has contributed to this Repository should please add themselves to this list.  
 
-Or please put in it an issue [https://github.com/lisahandsonline/Internet-Safety-Driving-Licence/issues] so that we can add you or do a pull request.
+Or please put in it an [issue](https://github.com/lisahandsonline/Internet-Safety-Driving-Licence/issues) so that we can add you or do a pull request.
 
 ## **Contributors**
 
