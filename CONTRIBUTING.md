@@ -35,4 +35,4 @@ If you have contributed to this Repository please now add yourself to our Contri
 
 ## **Looking to the future**
 
-If you would like to contribute to this project after the Global Sprint please take a look at our [Roadmap] which will give you an idea of the milestones that we are aiming to reach!
+If you would like to contribute to this project after the Global Sprint please take a look at our [Roadmap](https://docs.google.com/document/d/1-fmqE37hVOBpe3ur2fe4CR4SRAF1LTGip3R0_5QyE5E/edit) which will give you an idea of the milestones that we are aiming to reach!
