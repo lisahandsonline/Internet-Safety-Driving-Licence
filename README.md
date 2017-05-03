@@ -24,7 +24,7 @@ Successful completion of all 5 **Cyber-Ed** modules by a learner will lead to th
 - Internet Safety Driving Licence (in recognition of learning)
 
 ### Course Format
-- Learners will initially login to the Kilroy's College site to access their course - until a dedicated website is built - see [Roadmap] [https://docs.google.com/document/d/1-fmqE37hVOBpe3ur2fe4CR4SRAF1LTGip3R0_5QyE5E/edit]
+- Learners will initially login to the Kilroy's College site to access their course - until a dedicated website is built - see [Roadmap](https://docs.google.com/document/d/1-fmqE37hVOBpe3ur2fe4CR4SRAF1LTGip3R0_5QyE5E/edit)
 - Each module will become immediately accessible 
 - Upon successful completion of each module learners will be awarded a *Cyber-Ed* Mozilla badge
 - Learner support and mentoring will be available via SM (closed Facebook group)
@@ -55,13 +55,13 @@ Here is what has been developed so far in **Google Docs**:
 - Module 1 Descriptor  
 - Some draft course content for each of the proposed 6 units
 
-If you would like to see our current plan for the development of this project please take a look at our Canvas [https://docs.google.com/presentation/d/1S4eC4Z7jOGehz2NDN68TDDpmGXP-3pEX-tQD9YM3jtM/edit#slide=id.p]
+If you would like to see our current plan for the development of this project please take a look at our [Canvas](https://docs.google.com/presentation/d/1S4eC4Z7jOGehz2NDN68TDDpmGXP-3pEX-tQD9YM3jtM/edit#slide=id.p)
 
-If you would like to find out how you can contribute to this project please read our Contributor Guidelines also found in this Repository [https://github.com/lisahandsonline/Internet-Safety-Driving-Licence/blob/master/Contributor-Guidelines.md]
+If you would like to find out how you can contribute to this project please read our Contributor Guidelines also found in this [Repository](https://github.com/lisahandsonline/Internet-Safety-Driving-Licence/blob/master/Contributor-Guidelines.md)
 
-Our Roadmap can be found here [https://docs.google.com/document/d/1-fmqE37hVOBpe3ur2fe4CR4SRAF1LTGip3R0_5QyE5E/edit]
+Our Roadmap can be found here [Roadmap](https://docs.google.com/document/d/1-fmqE37hVOBpe3ur2fe4CR4SRAF1LTGip3R0_5QyE5E/edit)
 
-If you are looking for more information on Kilroy's College please see [https://www.kilroyscollege.ie/]
+If you are looking for more information on Kilroy's College please see [Kilroy's College](https://www.kilroyscollege.ie/)
 
 # Current Authors
-- Lisa Wright [https://www.linkedin.com/in/lisawright6/]
+- [Lisa Wright](https://www.linkedin.com/in/lisawright6/)
