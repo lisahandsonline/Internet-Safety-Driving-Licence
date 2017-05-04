@@ -52,7 +52,7 @@ Learning Outcomes delivered over 6 units:
 
 Here is what has been developed so far in **Google Docs**:
 
-- Module 1 Descriptor  
+- Module 1 [Descriptor](https://docs.google.com/document/d/1fKt7u6ouYEYZOviyp4mioFSsY-fRODOwxqeXqPfV6-g/edit) 
 - Some draft course content for each of the proposed 6 units
 
 If you would like to see our current plan for the development of this project please take a look at our [Canvas](https://docs.google.com/presentation/d/1S4eC4Z7jOGehz2NDN68TDDpmGXP-3pEX-tQD9YM3jtM/edit#slide=id.p)
