@@ -1,6 +1,6 @@
-# Licence
+# License
 
-## **Non-software content in this project is licenced under a Creative Commons Attribution-ShareAlike 4.0 International Licence**
+## **Non-software content in this project is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License**
 
 **Non-software content** refers to our Contribution Guideline, Code of Conduct and any media or text that may appear on a webpage or in an app.  
 
