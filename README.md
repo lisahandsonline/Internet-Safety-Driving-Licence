@@ -49,7 +49,7 @@ Learning Outcomes delivered over 5 units:
 - The law and cyberbullying
 - Cyber Buddy
 
-Here is what has been developed so far in **Google Docs**:
+Here is what has been developed so far in **Google Docs** (you will need to request access initially please):
 
 - Module 1 [Descriptor](https://docs.google.com/document/d/1fKt7u6ouYEYZOviyp4mioFSsY-fRODOwxqeXqPfV6-g/edit) 
 - Some [draft course content](https://drive.google.com/drive/folders/0B8advdlsil63b1poTWRZLTNraE0) for each of the proposed 5 units
@@ -58,7 +58,7 @@ If you would like to see our current plan for the development of this project pl
 
 If you would like to find out how you can contribute to this project please first read through our Contributing Guidelines also found in this [Repository](https://github.com/lisahandsonline/Internet-Safety-Driving-Licence/blob/master/CONTRIBUTING.md)
 
-If you are happy with what you see please then sign up as a [Contributor](
+If you are happy with what you see please then sign up as a [Contributor](https://github.com/lisahandsonline/Internet-Safety-Driving-Licence/blob/master/Contributors.md) 
 
 Our Roadmap can be found here [Roadmap](https://docs.google.com/document/d/1-fmqE37hVOBpe3ur2fe4CR4SRAF1LTGip3R0_5QyE5E/edit)
 
