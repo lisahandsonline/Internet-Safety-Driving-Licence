@@ -56,7 +56,7 @@ Here is what has been developed so far in **Google Docs** (you will need to requ
 
 If you would like to see our current plan for the development of this project please take a look at our [Canvas](https://docs.google.com/presentation/d/1S4eC4Z7jOGehz2NDN68TDDpmGXP-3pEX-tQD9YM3jtM/edit#slide=id.p)
 
-If you would like to find out how you can contribute to this project please first read through our [Contributing Guidelines](https://github.com/lisahandsonline/Internet-Safety-Driving-Licence/blob/master/CONTRIBUTING.md)
+If you would like to find out how you can contribute to this project please first read through our [Contributing Guidelines](https://github.com/lisahandsonline/Internet-Safety-Driving-Licence/blob/master/CONTRIBUTING.md) and our [Code of Conduct](https://github.com/lisahandsonline/Internet-Safety-Driving-Licence/blob/master/Code-of-Conduct.md)
 
 If you are happy with what you see please then sign up as a [Contributor](https://github.com/lisahandsonline/Internet-Safety-Driving-Licence/blob/master/Contributors.md) 
 
