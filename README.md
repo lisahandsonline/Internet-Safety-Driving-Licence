@@ -42,22 +42,21 @@ There will be 5 modules in this programme.
 This Repository will initally work on Module 1 only for the **Global Sprint**: **Cyberbullying Awareness** 
 
 #### Module One: **Cyberbullying Awareness**
-Learning Outcomes delivered over 6 units:
-- What is cyberbullying
+Learning Outcomes delivered over 5 units:
+- What is cyberbullying?
 - Types of cyberbullying
-- Identification of a cyberbully
+- Roles & actions
 - The law and cyberbullying
-- Dealing with a cyberbully
-- Being a cyberbuddy and advocate
+- Cyber Buddy
 
 Here is what has been developed so far in **Google Docs**:
 
 - Module 1 [Descriptor](https://docs.google.com/document/d/1fKt7u6ouYEYZOviyp4mioFSsY-fRODOwxqeXqPfV6-g/edit) 
-- Some draft course content for each of the proposed 6 units
+- Some [draft course content](https://drive.google.com/drive/folders/0B8advdlsil63b1poTWRZLTNraE0) for each of the proposed 5 units
 
 If you would like to see our current plan for the development of this project please take a look at our [Canvas](https://docs.google.com/presentation/d/1S4eC4Z7jOGehz2NDN68TDDpmGXP-3pEX-tQD9YM3jtM/edit#slide=id.p)
 
-If you would like to find out how you can contribute to this project please read our Contributor Guidelines also found in this [Repository](https://github.com/lisahandsonline/Internet-Safety-Driving-Licence/blob/master/Contributor-Guidelines.md)
+If you would like to find out how you can contribute to this project please read our Contributing Guidelines also found in this [Repository](
 
 Our Roadmap can be found here [Roadmap](https://docs.google.com/document/d/1-fmqE37hVOBpe3ur2fe4CR4SRAF1LTGip3R0_5QyE5E/edit)
 
